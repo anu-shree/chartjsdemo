@@ -5,10 +5,11 @@
   "author": "Ryan Brockhoff <brockhoffrw@gmail.com>",
   "private": true,
   "dependencies": {
-    "chart.js": "^2.8.0",
+    "chart.js": "^2.9.3",
     "react": "^16.8.4",
     "react-dom": "^16.8.4",
-    "react-scripts": "2.1.8"
+    "react-scripts": "2.1.8",
+    "tabletop": "^1.6.2"
   },
   "scripts": {
     "start": "react-scripts start",
